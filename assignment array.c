@@ -1,5 +1,5 @@
 
-#include <stdio.h>//George Njoroge bse 01-0279/2026
+#include <stdio.h>
 
 #define MAX 6
 
